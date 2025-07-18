@@ -41,6 +41,13 @@ Here's a little about me:
 
 ---
 
+🔗 **Blockchain & Crypto Knowledge**
+- Understand how Bitcoin and Ethereum work (nodes, transactions, consensus mechanisms).
+- Experience setting up cryptocurrency mining environments (hardware & software optimization).
+- Familiar with decentralized networks and blockchain security principles.
+
+---
+
 📈 **GitHub Stats**  
 
 📫 **How to Reach Me**  
