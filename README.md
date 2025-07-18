@@ -16,7 +16,7 @@ Here's a little about me:
 
 🎯 **Goals for 2025:** Contribute to a major open-source **AI + security or DevOps project**, and master advanced AI model deployment (local and cloud).  
 
-⚡ **Fun fact:** I enjoy gaming, watching anime, and experimenting with AI image/video generation just for fun.  
+⚡ **Fun fact:** I enjoy gaming, watching anime, and experimenting with AI LLM models, explore git repos just for fun.  
 
 ---
 
