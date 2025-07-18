@@ -41,6 +41,13 @@ Here's a little about me:
 
 ---
 
+🌐 **Web Hosting & Infrastructure**
+- Configured NGINX and Apache2 servers with reverse proxy setups.
+- Deployed and hosted WordPress on Linux servers and VPC environments.
+- Installed and managed SSL/TLS certificates (Let's Encrypt, manual certbot).
+
+---
+
 🔗 **Blockchain & Crypto Knowledge**
 - Understand how Bitcoin and Ethereum work (nodes, transactions, consensus mechanisms).
 - Experience setting up cryptocurrency mining environments (hardware & software optimization).
