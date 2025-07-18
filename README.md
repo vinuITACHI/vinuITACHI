@@ -58,8 +58,8 @@ Open-source collaboration
 Competitive programming
 
 🌟 Highlights
-🏆 Achievements: Winner of Hackathon XYZ, Maintainer of ProjectName
+🏆 Achievements: Comming Soon
 
-📚 Publications: Co-author of "Scaling Web Apps with Kubernetes"
+📚 Publications: Comming Soon
 
 Thanks for stopping by! Feel free to explore my repositories and collaborate on projects. Let's build and secure the web — together! 🔐💻
